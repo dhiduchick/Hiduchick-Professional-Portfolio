@@ -1,0 +1,73 @@
+*{ 
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    position: relative;
+}
+
+.main-header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    padding: 15px;
+    font-family:'Franklin Gothic Large', 'Arial Narrow', Arial, sans-serif;
+    background-color:#d0dfc8;
+    color:#304326;
+}
+
+.main-header h1 {
+    display: inline-block;
+    font-size: 50px;
+}
+
+.main-header nav {
+    margin-right: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+.main-header nav ul {
+    list-style-type: none;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3% auto;
+    max-width: 1400px;
+}
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+nav ul li {
+    margin-left: 30px;
+    padding: 10px;
+}
+
+nav ul li a:hover {
+    text-decoration:wavy underline #304326;
+}
+
+ul li {
+    display: inline;
+    text-align: center;
+}
+
+
+
+.hero{
+    height: 800px;
+    width: 100%;
+    margin-bottom: 30px;
+    background-image: url(///INSERT IMAGE///) ;
+    background-size: cover;
+    background-position: top;
+    object-fit: cover;
+}
