@@ -15,7 +15,7 @@ The motivation behind this project was to build out a rough outline for my own p
 ## Installation
 
 1. Clone the repo
-   git clone 
+   git clone https://github.com/dhiduchick/Hiduchick-Professional-Portfolio.git
 
 2. Open in VS Code. If you do not have VS code you must install it.
 
