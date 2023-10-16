@@ -6,11 +6,11 @@ The motivation behind this project was to build out a rough outline for my own p
 
 ## Live URL
 
-
+https://dhiduchick.github.io/Hiduchick-Professional-Portfolio/
 
 ## Screenshot
     
-![Portfolio](file:///Users/daelynhiduchick/Documents/portfolio%20screenshot.png)
+![Portfolio](./Assets/Images/portfolio%20screenshot.png)
 
 ## Installation
 
@@ -21,4 +21,4 @@ The motivation behind this project was to build out a rough outline for my own p
 
 ## Features
 
-Features of this page include a nav bar with links that send you to their corresponding information within the web page (ie. to sections 'About Me', my 'Work', and a 'Contact-Me' area. Within the work area, there are images with project numbers above them; when the images are clicked, the site will send users directly to those deployed applications. The contact me section works much the same way as the nav bar; when certain elements are clicked (GitHub and email) the user will be taken directly to those URLs.
+Features of this page include a nav bar with links that send you to their corresponding information within the web page ('About Me', my 'Work', and a 'Contact-Me') area. Within the work area, there are images with project numbers above them; when the images are clicked, the site will send users directly to those deployed applications. The contact me section works much the same way as the nav bar; when certain elements are clicked the user will be taken directly to those URLs, such as Github and my email.
