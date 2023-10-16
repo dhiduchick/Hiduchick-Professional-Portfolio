@@ -10,7 +10,7 @@ The motivation behind this project was to build out a rough outline for my own p
 
 ## Screenshot
     
-
+![Portfolio](file:///Users/daelynhiduchick/Documents/portfolio%20screenshot.png)
 
 ## Installation
 
